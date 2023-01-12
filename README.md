@@ -113,6 +113,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [GitBook](https://www.gitbook.com/)
 - [Netlify](https://www.netlify.com/)
 - [Read The Docs](https://readthedocs.org/)
+- [DuckDocs](https://duckdocs.com) - free account with custom domains available
 
 ## Knowledge Base
 
